@@ -1,0 +1,26 @@
+{
+    "name": "NexmoJS",
+    "version": "1.0.0",
+    "description": "A node implementation of Nexmo REST API written in Coffeescript.",
+    "homepage": "https://github.com/wilhelmbot/NexmoJS",
+    "keywords": [
+        "nexmo",
+        "sms",
+        "REST",
+        "API"
+    ],
+    "maintainers": [
+        {
+            "name": "Rod Wilhelmy",
+            "email": "rwilhelmy@gmail.com",
+            "web": "https://twitter.com/#!/rod_wilhelmy"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/wilhelmbot/NexmoJS.git"
+        }
+    ],
+    "dependencies": {}
+}
