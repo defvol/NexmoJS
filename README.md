@@ -43,8 +43,8 @@ How to use
 
 		console.log "Remaining balance: #{balance}" if balance?
 
-**w00t**
+**w00t**  
 
-[Nexmo]: http://www.nexmo.com/index.html Nexmo  
-[Nexmo Docs]: http://www.nexmo.com/documentation/ documentation  
+[Nexmo]: http://www.nexmo.com/index.html "Nexmo"  
+[Nexmo Docs]: http://www.nexmo.com/documentation/ "documentation"  
 
