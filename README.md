@@ -45,6 +45,6 @@ How to use
 
 **w00t**
 
-[Nexmo]: "http://www.nexmo.com/index.html" Nexmo  
-[Nexmo Docs]: "http://www.nexmo.com/documentation/" documentation  
+[Nexmo]: http://www.nexmo.com/index.html Nexmo  
+[Nexmo Docs]: http://www.nexmo.com/documentation/ documentation  
 
